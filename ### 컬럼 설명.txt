@@ -1,0 +1,15 @@
+### 컬럼 설명
+
+latitude: 산불의 위치 정보
+longitude: 산불의 위치 정보
+brightness: 산불의 밝기, 산불 강도
+acq_date: 산불 발생 날짜
+acq_time: 산불 발생 시간
+confidence: 산불 감지 신뢰도
+bright_t31: 밝기와 관련된 변수
+frp: 산불의 열 방출량
+daynight: 주간/야간 정보
+T2M: 기온
+WS2M: 풍속
+RH2M: 습도
+PRECTOTCORR: 강수량
